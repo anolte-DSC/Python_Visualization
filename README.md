@@ -2,17 +2,17 @@
 
 The material in this repository includes:
 
-    Notebooks_Exercises (Python notebooks with code for time series analysis and prediction including unsolved exercises)
-    Notebooks_Solutions (Python notebooks with code for time series analysis and prediction including exercises with solutions)
-    Images (images loaded in the code)
-    Datasets (datasets loaded in the code)
-    Slides (presented during the workshop)
-    requirements.txt (List of libraries required to run the notebooks)
+- Notebooks_Exercises (Python notebooks with code for time series analysis and prediction including unsolved exercises)
+- Notebooks_Solutions (Python notebooks with code for time series analysis and prediction including exercises with solutions)
+- Images (images loaded in the code)
+- Datasets (datasets loaded in the code)
+- Slides (presented during the workshop)
+- requirements.txt (List of libraries required to run the notebooks)
 
 The notebooks contain:
 
-    A) Quickstart into Python
-    B) Data visualization in Python including Earth Sciences examples
+- A) Quickstart into Python
+- B) Data visualization in Python including Earth Sciences examples
 
 To install the libraries open your terminal (or command prompt) and run the following command: pip install -r requirements.txt
 
