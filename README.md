@@ -1,4 +1,4 @@
-# Material for the workshop "Data Visualization and Communication Using Python And Jupyter" with focus on Earth Sciences at the Data Science Center (DSC), University of Bremen
+## Material for the workshop "Data Visualization and Communication Using Python And Jupyter" with focus on Earth Sciences at the Data Science Center (DSC), University of Bremen
 
 The material in this repository includes:
 
