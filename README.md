@@ -14,8 +14,8 @@ The notebooks contain:
 - A) Quickstart into Python
 - B) Data visualization in Python including Earth Sciences examples
 
-To install the libraries open your terminal (or command prompt) and run the following command: pip install -r requirements.txt
+To install the libraries open your terminal (or command prompt) and run the following command: `pip install -r requirements.txt`
 
-Running shell commands directly from a code cell in Jupyter Notebook is also possible by prefixing the command with an exclamation mark: !pip install -r requirements.txt
+Running shell commands directly from a code cell in Jupyter Notebook is also possible by prefixing the command with an exclamation mark: `!pip install -r requirements.txt`
 
 The material was developed by Annika Nolte. The sources and references for images, datasets and parts of code are given in the notebooks. Note that the provided notebooks were created with greatest care, but no guarantee can be given for the correctness of the analyses.
