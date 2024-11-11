@@ -1,0 +1,12 @@
+pandas
+numpy
+openpyxl
+matplotlib
+geopandas
+cartopy
+seaborn
+rasterio
+py7zr
+xarray
+plotly
+folium
